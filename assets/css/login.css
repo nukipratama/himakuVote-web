@@ -1,0 +1,29 @@
+body{
+  /* background-image: url() */
+  background-color: #1E1E1E;
+  margin-top: 40%;
+}
+
+
+input{
+  background: transparent;
+  height: 40px; 
+  color: white;
+  width: 300px;
+  border-radius: 4px;
+  border: none;
+  border-bottom: 1px solid white;
+  text-align: center;
+}
+
+button{
+  width: 300px;
+  background-color: #BD882C;
+  height: 40px;
+  border-radius: 6px;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  font-family: sans-serif;
+  border: none;
+}
